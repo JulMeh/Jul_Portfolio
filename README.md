@@ -5,5 +5,5 @@ Example data science portfolio
 I started this Kaggle competition by focusing on getting a good understanding of the data set. Steps I did in the project:
 * A detailed EDA is detailed and visualizations are included.
 * Preprocessing:
- * Dealing with NA's, Skewness and kurtosis, outliers, feature engineering, one hot encoding and so on.
+  * Dealing with NA's, Skewness and kurtosis, outliers, feature engineering, one hot encoding and so on.
 * Modelling with Lasso and Xgboost
