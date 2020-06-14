@@ -7,3 +7,5 @@ I started this Kaggle competition by focusing on getting a good understanding of
 * Preprocessing:
   * Dealing with NA's, Skewness and kurtosis, outliers, feature engineering, one hot encoding and so on.
 * Modelling with Lasso and Xgboost
+
+![](/images/houseprice.png)
