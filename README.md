@@ -11,3 +11,10 @@ I started this Kaggle competition by focusing on getting a good understanding of
 ![](/images/houseprice.png)
 
 (Other stuff in this report: A self-made function, regression matrix, a randomeforst to identify the most important variables) 
+
+# [Project 2: Classification of mushrooms](https://github.com/JulMeh/mushrooms)
+I wanted to combine my classification skills with a beautiful visualization. For this reason I started this I this project. The following is included in this project:
+* Simple application of: RT, gb and xgb
+* advanced application: of ggplot2 with loops and own functions
+
+![](/images/mushrooms.png)
