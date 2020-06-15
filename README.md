@@ -17,4 +17,4 @@ I wanted to combine my classification skills with a beautiful visualization. For
 * Simple application of: RT, gb and xgb
 * advanced application: of ggplot2 with loops and own functions
 
-![](/images/mushrooms.png)
+![](/images/mushrooms.png)  | width=100)
