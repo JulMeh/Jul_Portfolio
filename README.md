@@ -8,7 +8,7 @@ I started this Kaggle competition by focusing on getting a good understanding of
   * Dealing with NA's, Skewness and kurtosis, outliers, feature engineering, one hot encoding and so on.
 * Modelling with Lasso and Xgboost
 
-![](/images/houseprice.png)
+<img width="350" alt="portfolio_view" src="/images/houseprice.png">
 
 (Other stuff in this report: A self-made function, regression matrix, a randomeforst to identify the most important variables) 
 
@@ -18,4 +18,3 @@ I wanted to combine my classification skills with a beautiful visualization. For
 * advanced application: of ggplot2 with loops and own functions
 
 <img width="750" alt="portfolio_view" src="/images/mushrooms.png">
-![](/images/mushrooms.png)  | width=100)
