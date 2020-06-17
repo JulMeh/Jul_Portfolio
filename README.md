@@ -18,3 +18,14 @@ I wanted to combine my classification skills with a beautiful visualization. For
 * advanced application: of ggplot2 with loops and own functions
 
 <img width="750" alt="portfolio_view" src="/images/mushrooms.png">
+
+# Coming soon: Deep dive into tidymodels
+* EDA: With advanced use of ggplt
+* Preprocessing and modelling with: rsample, recipes, tune
+
+Applied tidymodeling
+Josiah Parry
+RStudio, Inc.
+updated: 2019-09-12
+
+https://josiahparry.com/post/2019-09-12-intro-tidymodels/
