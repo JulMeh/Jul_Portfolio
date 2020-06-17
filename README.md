@@ -23,7 +23,7 @@ I wanted to combine my classification skills with a beautiful visualization. For
 * EDA: With advanced use of ggplt
 * Preprocessing and modelling with: rsample, recipes, tune
 
-<img width="750" alt="portfolio_view" src="/images/tidyv-flow.png">(https://josiahparry.com/post/2019-09-12-intro-tidymodels/)
+<img width="750" alt="portfolio_view" src="/images/tidyv-flow.png">
 Graphic: Applied tidymodeling, Josiah Parry, RStudio, Inc., updated: 2019-09-12
 
 
