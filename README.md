@@ -17,7 +17,7 @@ I wanted to combine my classification skills with a beautiful visualization. For
 * Simple application of: RT, gb and xgb
 * Advanced application: of ggplot2 with loops and own functions
 
-<img width="750" alt="portfolio_view" src="/images/Classification?2.jpg">
+<img width="750" alt="portfolio_view" src="/images/Classification_2.jpg">
 
 # Coming soon: Deep dive into tidymodels
 * EDA: With advanced use of ggplt
