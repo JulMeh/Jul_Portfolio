@@ -8,16 +8,18 @@ I started this Kaggle competition by focusing on getting a good understanding of
   * Dealing with NA's, Skewness and kurtosis, outliers, feature engineering, one hot encoding and so on.
 * Modelling with Lasso and Xgboost
 
-<img width="350" alt="portfolio_view" src="/images/houseprice.png">
+[<img width="750" alt="Regression" src="/images/Regression.jpg">](https://github.com/JulMeh/mushrooms)
 
 (Other stuff in this report: A self-made function, regression matrix, a randomeforst to identify the most important variables) 
 
 # [Project 2: Classification of mushrooms](https://github.com/JulMeh/mushrooms)
-I wanted to combine my classification skills with a beautiful visualization. For this reason I started this project. The following is included in this project:
-* Simple application of: RT, gb and xgb
-* Advanced application: of ggplot2 with loops and own functions
 
 [<img width="750" alt="Classification_2" src="/images/Classification_2.jpg">](https://github.com/JulMeh/mushrooms)
+
+# [Project 3: Classification of movies](https://github.com/JulMeh/mushrooms)
+
+[<img width="750" alt="Classification" src="/images/Classification.jpg">](https://github.com/JulMeh/mushrooms)
+
 
 # Coming soon: Deep dive into tidymodels
 * EDA: With advanced use of ggplt
