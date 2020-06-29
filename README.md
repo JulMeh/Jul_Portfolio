@@ -12,11 +12,11 @@ I started this Kaggle competition by focusing on getting a good understanding of
 
 (Other stuff in this report: A self-made function, regression matrix, a randomeforst to identify the most important variables) 
 
-# [Project 2: Classification of mushrooms](https://github.com/JulMeh/mushrooms)
+# [Project 2: Shrooming with data](https://github.com/JulMeh/mushrooms)
 
 [<img width="750" alt="Classification_2" src="/images/Classification_2.jpg">](https://github.com/JulMeh/mushrooms)
 
-# [Project 3: Classification of movies](https://github.com/JulMeh/mushrooms)
+# [Project 3: Finding horror movies](https://github.com/JulMeh/mushrooms)
 
 [<img width="750" alt="Classification" src="/images/Classification.jpg">](https://github.com/JulMeh/mushrooms)
 
