@@ -20,12 +20,8 @@ I started this Kaggle competition by focusing on getting a good understanding of
 
 [<img width="750" alt="Classification" src="/images/Classification.jpg">](https://github.com/JulMeh/mushrooms)
 
-
-# Coming soon: Deep dive into tidymodels
-* EDA: With advanced use of ggplt
-* Preprocessing and modelling with: rsample, recipes, tune
-
-<img width="750" alt="portfolio_view" src="/images/tidyv-flow.png">
-Graphic: Applied tidymodeling, Josiah Parry, RStudio, Inc., updated: 2019-09-12
+# Coming soon:  
+* Tidymodels and Time Series Forecasting
+* Deep Learning
 
 
